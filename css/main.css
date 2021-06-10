@@ -2896,6 +2896,11 @@ p::-webkit-selection {
 .sidebar-inner {
   background-color: #bfcef9;
 }
+.site-subtitle,
+.site-description,
+.site-state-item-name {
+  color: #666;
+}
 .post-button .btn {
   color: #555;
 }
