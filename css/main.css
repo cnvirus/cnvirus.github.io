@@ -2920,3 +2920,6 @@ p::-webkit-selection {
 .post-eof {
   display: none;
 }
+.collection-title {
+  display: none;
+}
