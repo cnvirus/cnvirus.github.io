@@ -2732,7 +2732,6 @@ mark.search-keyword {
   position: sticky;
   top: 12px;
   width: 240px;
-  visibility: hidden;
 }
 @media (max-width: 991px) {
   .sidebar {
@@ -2859,6 +2858,12 @@ p::-webkit-selection {
 .site-description,
 .site-state-item-name {
   color: #666;
+}
+.menu-item a.menu-item-active {
+  background: #bfcef9;
+}
+.main-menu .menu-item-active::after {
+  background: #da3b01;
 }
 .post-button .btn {
   color: #555;
