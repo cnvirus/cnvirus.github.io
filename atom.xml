@@ -3,11 +3,11 @@
   <title>(test)</title>
   
   <subtitle>subtitle</subtitle>
-  <link href="https://cnvirus.github.io/atom.xml" rel="self"/>
+  <link href="https://cnvirus.github.io/project/atom.xml" rel="self"/>
   
-  <link href="https://cnvirus.github.io/"/>
+  <link href="https://cnvirus.github.io/project/"/>
   <updated>2021-06-10T23:57:27.791Z</updated>
-  <id>https://cnvirus.github.io/</id>
+  <id>https://cnvirus.github.io/project/</id>
   
   <author>
     <name>Raito</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>バイデン氏、ワクチン5億回分を世界に提供へ　G7で英国到着</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(19)_G7/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(19)_G7/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(19)_G7/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(19)_G7/</id>
     <published>2021-06-07T10:39:32.063Z</published>
     <updated>2021-06-10T23:57:27.791Z</updated>
     
@@ -31,18 +31,18 @@
     
     
     
-    <category term="BBC" scheme="https://cnvirus.github.io/tags/BBC/"/>
+    <category term="BBC" scheme="https://cnvirus.github.io/project/tags/BBC/"/>
     
-    <category term="日本語" scheme="https://cnvirus.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/"/>
+    <category term="日本語" scheme="https://cnvirus.github.io/project/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/"/>
     
-    <category term="新聞" scheme="https://cnvirus.github.io/tags/%E6%96%B0%E8%81%9E/"/>
+    <category term="新聞" scheme="https://cnvirus.github.io/project/tags/%E6%96%B0%E8%81%9E/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(18)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(18)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(18)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(18)/</id>
     <published>2021-06-07T10:02:03.988Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -54,18 +54,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(17)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(17)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(17)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(17)/</id>
     <published>2021-06-07T10:02:03.687Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -77,18 +77,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(16)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(16)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(16)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(16)/</id>
     <published>2021-06-07T10:02:03.348Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -100,18 +100,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(15)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(15)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(15)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(15)/</id>
     <published>2021-06-07T10:02:02.861Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -123,18 +123,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(14)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(14)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(14)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(14)/</id>
     <published>2021-06-07T10:02:02.560Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -146,18 +146,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(13)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(13)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(13)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(13)/</id>
     <published>2021-06-07T10:02:02.196Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -169,18 +169,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(12)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(12)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(12)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(12)/</id>
     <published>2021-06-07T10:02:01.911Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -192,18 +192,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(11)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(11)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(11)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(11)/</id>
     <published>2021-06-07T10:02:01.680Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -215,18 +215,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(10)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(10)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(10)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(10)/</id>
     <published>2021-06-07T10:02:01.472Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -238,18 +238,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(9)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(9)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(9)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(9)/</id>
     <published>2021-06-07T10:02:01.241Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -261,18 +261,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(8)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(8)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(8)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(8)/</id>
     <published>2021-06-07T10:02:00.956Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -284,18 +284,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(7)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(7)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(7)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(7)/</id>
     <published>2021-06-07T10:02:00.708Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -307,18 +307,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(6)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(6)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(6)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(6)/</id>
     <published>2021-06-07T10:02:00.454Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -330,18 +330,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(5)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(5)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(5)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(5)/</id>
     <published>2021-06-07T10:02:00.238Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -353,18 +353,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(4)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(4)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(4)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(4)/</id>
     <published>2021-06-07T10:01:59.805Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -376,18 +376,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(3)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(3)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(3)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(3)/</id>
     <published>2021-06-07T10:01:58.916Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -399,18 +399,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(2)/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy%20(2)/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(2)/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy%20(2)/</id>
     <published>2021-06-06T17:22:52.314Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -422,18 +422,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy/"/>
-    <id>https://cnvirus.github.io/2021/06/07/hello-world%20-%20Copy/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy/"/>
+    <id>https://cnvirus.github.io/project/2021/06/07/hello-world%20-%20Copy/</id>
     <published>2021-06-06T17:22:33.293Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -445,18 +445,18 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cnvirus.github.io/2021/06/06/hello-world/"/>
-    <id>https://cnvirus.github.io/2021/06/06/hello-world/</id>
+    <link href="https://cnvirus.github.io/project/2021/06/06/hello-world/"/>
+    <id>https://cnvirus.github.io/project/2021/06/06/hello-world/</id>
     <published>2021-06-06T07:45:40.335Z</published>
     <updated>2021-06-06T16:40:49.506Z</updated>
     
@@ -468,11 +468,11 @@
     
     
     
-    <category term="Hexo" scheme="https://cnvirus.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://cnvirus.github.io/project/tags/Hexo/"/>
     
-    <category term="new" scheme="https://cnvirus.github.io/tags/new/"/>
+    <category term="new" scheme="https://cnvirus.github.io/project/tags/new/"/>
     
-    <category term="beginner" scheme="https://cnvirus.github.io/tags/beginner/"/>
+    <category term="beginner" scheme="https://cnvirus.github.io/project/tags/beginner/"/>
     
   </entry>
   
