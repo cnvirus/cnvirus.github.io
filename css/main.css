@@ -2862,6 +2862,10 @@ p::-webkit-selection {
 .menu-item a.menu-item-active {
   background: #bfcef9;
 }
+.main-menu .menu-item-active::after {
+  background: #904ee2;
+  display: none;
+}
 .post-button .btn {
   color: #555;
 }
