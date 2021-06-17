@@ -2856,12 +2856,24 @@ pre {
   color: #333;
 }
 figure.highlight .gutter pre {
-  background: #fc6a2b;
+  background: #f8d0bc;
   color: #333;
   border-radius: 20%;
   padding-left: 10px;
   padding-right: 10px;
   text-align: center;
+}
+.menu-item a.menu-item-active,
+.menu-item a:hover {
+  background: rgba(222,78,24,0.2);
+  color: #333;
+  transition: all 0.35s ease-out;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.main-menu .menu-item-active::after {
+  background: #da3b01;
+  display: none;
 }
 .site-brand-container,
 .header-inner,
@@ -2875,26 +2887,6 @@ figure.highlight .gutter pre {
 .site-description,
 .site-state-item-name {
   color: #555;
-}
-.menu-item a.menu-item-active {
-  background: rgba(218,59,1,0.8);
-  color: #fff;
-  transition: all 0.35s ease-out;
-  border-radius: 10px;
-  margin-bottom: 10px;
-  padding: 5px;
-}
-.main-menu .menu-item-active::after {
-  background: #da3b01;
-  display: none;
-}
-.menu-item a:hover {
-  background: rgba(222,78,24,0.2);
-  color: #333;
-  transition: all 0.25s ease-out;
-  border-radius: 10px;
-  margin-bottom: 10px;
-  padding: 5px;
 }
 .post-button .btn {
   color: #555;
