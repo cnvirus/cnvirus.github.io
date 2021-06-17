@@ -2568,7 +2568,7 @@ mark.search-keyword {
 }
 .header-inner {
   background: var(--content-bg-color);
-  border-radius: 10px 10px;
+  border-radius: initial;
   box-shadow: initial;
   width: 240px;
 }
@@ -2602,7 +2602,7 @@ mark.search-keyword {
   }
 }
 .main-inner {
-  border-radius: 10px 10px;
+  border-radius: initial;
   box-sizing: border-box;
   width: calc(100% - 252px);
 }
@@ -2743,7 +2743,7 @@ mark.search-keyword {
 }
 .sidebar-inner {
   background: var(--content-bg-color);
-  border-radius: 10px;
+  border-radius: initial;
   box-shadow: initial;
   box-sizing: border-box;
   color: var(--text-color);
@@ -2818,10 +2818,14 @@ mark.search-keyword {
   }
 }
 .posts-expand .post-title-link {
-  color: #904ee2;
+  color: #da3b01;
+}
+body,
+.main-inner {
+  background: #fff1e5;
 }
 .post-body a {
-  color: #904ee2;
+  color: #da3b01;
 }
 .post-body a:hover {
   color: #333;
@@ -2844,27 +2848,55 @@ p::-webkit-selection {
 .posts-expand .post-meta-container .post-description {
   display: none;
 }
-.site-brand-container {
-  background-color: #bfcef9;
+code,
+kbd,
+figure.highlight,
+pre {
+  background: #fff;
+  color: #333;
 }
-.site-title {
-  color: #555;
+figure.highlight .gutter pre {
+  background: #fc6a2b;
+  color: #333;
+  border-radius: 20%;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
 }
+.site-brand-container,
 .header-inner,
 .sidebar-inner {
-  background-color: #bfcef9;
+  background: #fff1e5;
+}
+.site-title {
+  color: #666;
 }
 .site-subtitle,
 .site-description,
 .site-state-item-name {
-  color: #666;
+  color: #555;
 }
 .menu-item a.menu-item-active {
-  background: #bfcef9;
+  opacity: 1;
+  background: #fc6a2b;
+  box-shadow: 0 2px 12px #fc6a2b;
+  color: #fff;
+  transition: all 0.35s ease-out;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
 }
 .main-menu .menu-item-active::after {
-  background: #904ee2;
+  background: #da3b01;
   display: none;
+}
+.menu-item a:hover {
+  background: rgba(222,78,24,0.2);
+  color: #333;
+  transition: all 0.25s ease-out;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
 }
 .post-button .btn {
   color: #555;
