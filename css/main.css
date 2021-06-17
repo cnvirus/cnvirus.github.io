@@ -2877,9 +2877,7 @@ figure.highlight .gutter pre {
   color: #555;
 }
 .menu-item a.menu-item-active {
-  opacity: 1;
-  background: #fc6a2b;
-  box-shadow: 0 2px 12px #fc6a2b;
+  background: rgba(218,59,1,0.8);
   color: #fff;
   transition: all 0.35s ease-out;
   border-radius: 10px;
