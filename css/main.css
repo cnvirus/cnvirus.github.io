@@ -2809,7 +2809,7 @@ body,
   color: #333;
 }
 .post-body {
-  font-family: Lato, 'Microsoft YaHei', sans-serif;
+  font-family: 'Noto Sans', 'Microsoft YaHei', sans-serif;
 }
 p::selection {
   background: #ccc;
