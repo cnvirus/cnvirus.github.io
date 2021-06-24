@@ -2845,6 +2845,9 @@ figure.highlight .gutter pre {
   margin-bottom: 20px;
   padding: 5px;
 }
+.menu .menu-item a {
+  font-weight: bold;
+}
 .menu-item a.menu-item-active {
   background: rgba(222,78,24,0.2);
 }
