@@ -2849,7 +2849,7 @@ figure.highlight .gutter pre {
   font-weight: bold;
 }
 .menu-item a.menu-item-active {
-  background: rgba(222,78,24,0.2);
+  background: #fff1e5;
 }
 .menu-item a:hover {
   background: rgba(222,78,24,0.2);
